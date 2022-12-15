@@ -1,0 +1,15 @@
+D:\Learns\bin\Debug\net7.0\Learns.exe
+D:\Learns\bin\Debug\net7.0\Learns.deps.json
+D:\Learns\bin\Debug\net7.0\Learns.runtimeconfig.json
+D:\Learns\bin\Debug\net7.0\Learns.dll
+D:\Learns\bin\Debug\net7.0\Learns.pdb
+D:\Learns\obj\Debug\net7.0\Learns.csproj.AssemblyReference.cache
+D:\Learns\obj\Debug\net7.0\Learns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learns\obj\Debug\net7.0\Learns.AssemblyInfoInputs.cache
+D:\Learns\obj\Debug\net7.0\Learns.AssemblyInfo.cs
+D:\Learns\obj\Debug\net7.0\Learns.csproj.CoreCompileInputs.cache
+D:\Learns\obj\Debug\net7.0\Learns.dll
+D:\Learns\obj\Debug\net7.0\refint\Learns.dll
+D:\Learns\obj\Debug\net7.0\Learns.pdb
+D:\Learns\obj\Debug\net7.0\Learns.genruntimeconfig.cache
+D:\Learns\obj\Debug\net7.0\ref\Learns.dll
